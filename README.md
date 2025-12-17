@@ -4,3 +4,5 @@ Also removes the tracking part of a Youtube link.
 
 • Requires yt-dlp to function.
 • Set the directory path to whatever folder you're using for videos.
+
+Usage example: bash dlv.sh paste_video_link_here
